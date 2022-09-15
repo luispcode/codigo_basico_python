@@ -1,6 +1,6 @@
 #### Hola Mundo! 🐍
 
-##### En este repositorio encontraras varios archivos de python donde podemos apreciar diferentes características de python y algunos scripts útiles que he utilizado.
+##### En este repositorio encontraras varios archivos de python donde podemos apreciar diferentes características de python y algunos scripts basicos que he utilizado.
 
 ##### Algunos de ellos son:
 
